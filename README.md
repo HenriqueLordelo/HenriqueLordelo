@@ -7,6 +7,7 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=HenriqueLordelo&theme=radical&mode=weekly" />
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HenriqueLordelo&layout=compact&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
  </div>
  
  &nbsp;
