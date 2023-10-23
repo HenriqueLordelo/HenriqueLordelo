@@ -12,10 +12,11 @@
 &nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=HenriqueLordelo&theme=radical&mode=weekly" />
+<img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=henriquelordelo&theme=shadow-red&mode=weekly" />
 </div>
- &nbsp;
- &nbsp;
+
+&nbsp;
+&nbsp;
 
 ## My Skills
 
@@ -43,4 +44,4 @@
 <a href="https://wa.me/5511974753161" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>&nbsp;&nbsp;
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b40000&height=120&section=footer"/>
