@@ -5,16 +5,9 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=henriquelordelo&bg_color=0d1117&color=b40000&line=0F8208&point=F58000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=carolbarbosa101&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbarbosa101&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=henriquelordelo&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Henrique Lordêlo github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquelordelo&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
-
-
-
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/HenriqueLordelo/HenriqueLordelo/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
-
-<p align="center"> 👋 Se você procura um profissional <strong>comprometido</strong>, <strong>criativo</strong> e que <strong>ama</strong> o que faz, estou pronto para embarcar nessa jornada com você! 🚀
 
 &nbsp;
 
@@ -23,8 +16,6 @@
 </div>
  &nbsp;
  &nbsp;
-
-
 
 ## My Skills
 
@@ -51,8 +42,5 @@
 <a href="https://henriquelordelo.com" target="_blank"> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 <a href="https://wa.me/5511974753161" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>&nbsp;&nbsp;
- 
-
-  
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
